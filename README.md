@@ -1,4 +1,4 @@
-# A Jupiter's Notebook
+# A Jupyter's Notebook
 - Python
 - ML & AI
 - Math & :)
